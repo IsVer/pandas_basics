@@ -1714,7 +1714,7 @@ plt.ylabel("Amount of days"); # setting the y label
 ```
 
 
-![png](output_66_0.png)
+![png](graph1.png)
 
 
 
@@ -1726,7 +1726,7 @@ plt.xlabel("Day # in the year"); # setting the y label
 ```
 
 
-![png](output_67_0.png)
+![png](graph2.png)
 
 
 We see, the x-axis is not so easy to interpret. Instead of the **number of the day** in the year, we rather have the **dates**.
