@@ -1,6 +1,6 @@
 
-## Basic data exploration with pandas
-
+## Start with pandas
+A 30 min intro into pandas for MS course
 
 ```python
 import pandas as pd # the pd is by convention
@@ -1725,7 +1725,6 @@ plt.ylabel("Temperature (C)"); # setting the x label, now reversed
 plt.xlabel("Day # in the year"); # setting the y label
 ```
 
-
 ![png](graph2.png)
 
 
@@ -1931,7 +1930,7 @@ plt.xlabel("Dates")
 
 
 
-    Text(0.5,0,'Dates')
+
 
 
 
