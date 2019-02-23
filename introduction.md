@@ -1,5 +1,5 @@
 
-## Start with pandas
+## Introducing pandas in python
 A 30 min intro into pandas. 
 
 We start by loading the pandas and numpy libraries.
