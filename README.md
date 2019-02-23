@@ -1,6 +1,8 @@
 
 ## Start with pandas
-A 30 min intro into pandas for MS course
+A 30 min intro into pandas for MS course. 
+
+We start by loading the pandas and numpy libraries.
 
 ```python
 import pandas as pd # the pd is by convention
