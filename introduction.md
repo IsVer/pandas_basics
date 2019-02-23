@@ -9,8 +9,7 @@ import pandas as pd # the pd is by convention
 import numpy as np # also convention
 ```
 
-We will use a practice dataset containing weather data measured in Central Park NYC, obtained from [Kaggle](https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016). The data is added to this [repo].
-[Contribution guidelines for this project](CP2016.csv)
+We will use a practice dataset containing weather data measured in Central Park NYC, obtained from [Kaggle](https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016). The data is added to this repo [here](CP2016.csv).
 
 
 
